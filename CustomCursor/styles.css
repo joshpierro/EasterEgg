@@ -1,0 +1,21 @@
+﻿
+html,body {
+    margin:0;
+    padding:25px;
+    height:100%; /* needed for container min-height */
+    background-color:lightgray;
+    font-family:arial,sans-serif;
+    font-size:small;
+}
+
+.regular-cursor {
+    width:100%;
+    height:100%;
+}
+
+.waitingForCode {
+    cursor: url('fish.cur'), move;
+    width:100%;
+    height:100%;
+}
+

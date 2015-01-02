@@ -1,4 +1,7 @@
 EasterEgg
 =========
 
-A simple Easter Egg you can bake into  your web apps. A working version can be seen here: http://joshpierro.github.io/EasterEgg. 
+A few simple Easter Eggs you can bake into  your web apps. Working versions can be seen here: 
+
+Jerry - http://joshpierro.github.io/EasterEgg
+Custom Cursor with Konami code: http://whereshappening.com/EasterEggs/CustomCursor/ 
