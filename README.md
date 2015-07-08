@@ -5,3 +5,4 @@ A few simple Easter Eggs you can bake into  your web apps. Working versions can 
 
 - Jerry - http://joshpierro.github.io/EasterEgg
 - Custom Cursor with Konami code: http://whereshappening.com/EasterEggs/CustomCursor/ 
+- a Divine Easter Egg: http://whereshappening.com/EasterEggs/ahole/
